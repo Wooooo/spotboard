@@ -139,3 +139,6 @@ config =
      */
     foreign_teams : [ 2000, 2001 ]
 };
+
+
+config.environment = "production";
